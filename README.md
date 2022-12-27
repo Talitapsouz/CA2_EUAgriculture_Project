@@ -6,7 +6,7 @@ https://www.fao.org/faostat/en/#data/CP
 
 Following up on EDA (Exploratory Data Analysis)
 
-Data Analysis 
+# DATA ANALYSIS
 
 Questions to ask 
 Sample 
@@ -23,7 +23,18 @@ Identification of gaps
 
 The Relation Between Prices and Costs 
 The Significance of the Results of Price Analyses
-
 Conclusion and future work
+
+# LIBRARIES 
+
+Pandas as pd : Heavily used for data analysis and cleaning. Pandas provides fast, flexible data structures, whici are designed to work 
+with structured data very easily and intuitively.
+seaborn as sns : 
+matplotlib.pyplot as plt : has powerful beautiful visualizations. ecause of the graphs and plots that it produces, it’s extensively used 
+for data visualization.
+numpy as np : is the fundamental package for numerical computation in Python; it contains a powerful N-dimensional array object.  It’s 
+a general-purpose array-processing package that provides high-performance multidimensional objects called arrays and tools for working 
+with them.
+
  
 
