@@ -1,10 +1,10 @@
 # CA2_EUAgriculture_Project
-Developing CA2 for MSc Data Analytics 
+Developing CA2 for MSc in Science in Data Analytics
 
-	
+DATASET:	
 https://www.fao.org/faostat/en/#data/CP
 
-Following up on EDA (Exploratory Data Analysis)
+Following up on EDA (Exploratory Data Analysis) and CRISP-DM methodology.
 
 # DATA ANALYSIS
 
