@@ -4,7 +4,7 @@ Developing CA2 for MSc Data Analytics
 	
 https://www.fao.org/faostat/en/#data/CP
 
-Following up on Data Analysis 
+Following up on EDA (Exploratory Data Analysis)
 
 Data Analysis 
 
