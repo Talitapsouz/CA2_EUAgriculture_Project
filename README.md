@@ -13,9 +13,13 @@ Sample
 https://agriculture.ec.europa.eu/system/files/2022-12/eu-raw-milk-prices_en.pdf
 
 Ireland + EU prices table comparing for a few years  
+
 Ireland compared with EU prices
+
 Evolution in November xxxx compared to November xxxxxx 
+
 Evolution from november xxxx year 
+
 Long-time moviment in agriculturall prices 
 short-time moviment in agriculturall prices
 Understanding the cause and effect of price volatility - Ciclic variantions 
